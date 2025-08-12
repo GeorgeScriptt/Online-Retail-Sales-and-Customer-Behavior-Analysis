@@ -10,7 +10,7 @@ The main objectives is to conduct an exploratory data analysis to gain insights 
 3. Customer behavior
 4. Analytics insights and data-driven reccomendations
 
-## Data Overview and Cleaning
+## Data Overview
 The dataset is available as a .xlsx file named `Online Retail.xlsx`. The dataset contains the following columns:
 * __InvoiceNo__: Invoice number of the transaction
 * __StockCode__: Unique code of the product
@@ -20,8 +20,9 @@ The dataset is available as a .xlsx file named `Online Retail.xlsx`. The dataset
 * __UnitPrice__: Unit price of the product
 * __CustomerID__: Unique identifier of the customer
 * __Country__: Country where the transaction occurred
+The initial dataset contained 541,909 rows and 8 columns.
 
-* The initial dataset contained 541,909 rows and 8 columns.
+## Data Cleaning
 * Missing values were identified in the 'Description' (1454) and 'CustomerID' (135,080) columns.
 * Data cleaning steps included:
     * Filling missing 'Description' values by mapping 'StockCode' to existing descriptions and filling any remaining with "Unknown".
