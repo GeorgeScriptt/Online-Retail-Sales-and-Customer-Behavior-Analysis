@@ -41,6 +41,9 @@ The initial dataset contained 541,909 rows and 8 columns.
     * The United Kingdom is overwhelmingly the dominant country in terms of transaction count.
     * The top 10 countries by transaction count are United Kingdom, Germany, France, EIRE, Spain, Netherlands, Belgium, Switzerland, Portugal, and Australia.
     * The least 10 countries by transaction count include Malta, United Arab Emirates, European Community, RSA, Lebanon, Lithuania, Brazil, Czech Republic, Bahrain, and Saudi Arabia.
+
+   <img width="5971" height="1770" alt="Image" src="https://github.com/user-attachments/assets/83f87518-6b9d-4fe0-88ab-700659b4f350" />
+   
 * **Sales Trends:**
     * New columns 'Year', 'Month', 'DayOfWeek', and 'TotalPrice' were created.
     * The monthly sales trend shows a general increase throughout 2011, with a significant peak in November and a drop in December (likely due to the dataset ending early in December).
