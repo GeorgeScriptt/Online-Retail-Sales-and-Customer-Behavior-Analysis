@@ -51,6 +51,9 @@ The initial dataset contained 541,909 rows and 8 columns.
   <img width="5971" height="1768" alt="Image" src="https://github.com/user-attachments/assets/01902afe-c323-4e74-a8f8-028ed68eed63" />
   
     * Sales vary across days of the week for each month, with Friday generally showing strong sales.
+ 
+<img width="4953" height="1712" alt="Image" src="https://github.com/user-attachments/assets/9a4ec0be-5e21-42ae-a1d1-02307a68d17d" />
+
 * **Product Analysis:**
     * **Top 10 Best-Selling Products by Quantity:** PAPER CRAFT , LITTLE BIRDIE, MEDIUM CERAMIC TOP STORAGE JAR, WORLD WAR 2 GLIDERS ASSTD DESIGNS, JUMBO BAG RED RETROSPOT, WHITE HANGING HEART T-LIGHT HOLDER, POPCORN HOLDER, PACK OF 72 RETROSPOT CAKE CASES, ASSORTED COLOUR BIRD ORNAMENT, RABBIT NIGHT LIGHT, and MINI PAINT SET VINTAGE.
     * **Top 10 Products by Total Revenue:** DOTCOM POSTAGE, REGENCY CAKESTAND 3 TIER, PAPER CRAFT , LITTLE BIRDIE, WHITE HANGING HEART T-LIGHT HOLDER, PARTY BUNTING, JUMBO BAG RED RETROSPOT, MEDIUM CERAMIC TOP STORAGE JAR, POSTAGE, Manual, and RABBIT NIGHT LIGHT.
