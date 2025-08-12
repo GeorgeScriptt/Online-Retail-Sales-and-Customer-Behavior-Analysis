@@ -33,6 +33,9 @@ The initial dataset contained 541,909 rows and 8 columns.
 
 ## Exploratory Data Analysis (EDA)
 * **Quantity and Unit Price Distribution:** Box plots revealed significant outliers in both 'Quantity' and 'UnitPrice' distributions, which were handled by removing negative values.
+
+<img width="4879" height="1675" alt="Image" src="https://github.com/user-attachments/assets/b661010c-72c2-4c3e-8620-772e6ae73136" />
+
 * **Country Analysis:**
     * There are 38 unique countries in the dataset.
     * The United Kingdom is overwhelmingly the dominant country in terms of transaction count.
