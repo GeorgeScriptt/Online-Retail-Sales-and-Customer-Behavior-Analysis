@@ -74,6 +74,8 @@ The initial dataset contained 541,909 rows and 8 columns.
         * **Cluster 3 (Regular Customer):** Moderate average Recency (43.91 days), low average Frequency (3.66), and moderate average Monetary value (£1,344.28). This is the largest group with 3053 customers.
         * **Cluster 1 (Churned Customer):** Highest average Recency (248.56 days), lowest average Frequency (1.55), and lowest average Monetary value (£476.33). This group has 1062 customers.
     * The bar chart visually represents the distribution of customers across these segments, clearly showing that the "Regular Customer" group is the largest, followed by "Churned Customer", "Loyal Customer", and the small but high-value "Top Customer" group.
+
+<img width="4907" height="1669" alt="Image" src="https://github.com/user-attachments/assets/92a92a6a-31e6-447b-bcf9-879465e2c8b7" />
  
 ## Key Findings and Reccomendations
 * **Key Findings:**
