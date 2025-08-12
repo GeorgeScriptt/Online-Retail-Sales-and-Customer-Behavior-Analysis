@@ -58,6 +58,8 @@ The initial dataset contained 541,909 rows and 8 columns.
     * **Top 10 Best-Selling Products by Quantity:** PAPER CRAFT , LITTLE BIRDIE, MEDIUM CERAMIC TOP STORAGE JAR, WORLD WAR 2 GLIDERS ASSTD DESIGNS, JUMBO BAG RED RETROSPOT, WHITE HANGING HEART T-LIGHT HOLDER, POPCORN HOLDER, PACK OF 72 RETROSPOT CAKE CASES, ASSORTED COLOUR BIRD ORNAMENT, RABBIT NIGHT LIGHT, and MINI PAINT SET VINTAGE.
     * **Top 10 Products by Total Revenue:** DOTCOM POSTAGE, REGENCY CAKESTAND 3 TIER, PAPER CRAFT , LITTLE BIRDIE, WHITE HANGING HEART T-LIGHT HOLDER, PARTY BUNTING, JUMBO BAG RED RETROSPOT, MEDIUM CERAMIC TOP STORAGE JAR, POSTAGE, Manual, and RABBIT NIGHT LIGHT.
     * There are some differences between the top products by quantity and revenue, indicating that some products with lower quantity sales contribute significantly to revenue due to higher unit prices (e.g., DOTCOM POSTAGE, REGENCY CAKESTAND 3 TIER).
+
+<img width="5974" height="1770" alt="Image" src="https://github.com/user-attachments/assets/e8a32745-d8a9-4126-b542-aa9a061dc305" />
  
 ## Customer Behavior and Segementation
 * **Customer Activity:** Customer activity was summarized by grouping by 'CustomerID' and calculating the total number of unique invoices ('TotalInvoice') and the sum of 'TotalPrice' ('TotalRevenue').
